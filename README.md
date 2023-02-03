@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lakshay</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshaygmz&label=Profile%20views&color=0e75b6&style=flat" alt="lakshaygmz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshaygmz&label=Profile%20views&color=0e75b6&style=flat-square" alt="lakshaygmz" /> </p>
 
 - 🔭 I’m currently working on [OneChat](https://github.com/LakshayGMZ/OneChat)
 
